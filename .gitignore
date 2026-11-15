@@ -1,0 +1,11 @@
+.DS_Store
+backend/target/
+*.class
+*.jar
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.env
+__pycache__/
+*.pyc
+.venv/
